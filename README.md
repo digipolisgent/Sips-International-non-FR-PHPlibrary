@@ -14,6 +14,10 @@ The SIPS platform can be reached through the following URL's:
 - TEST: https://payment-webinit.test.sips-atos.com/paymentInit
 - PRODUCTION: https://payment-webinit.sips-atos.com/paymentInit
 
+## Forked ##
+
+This library is a fork of [worldline/Sips-International-non-FR-PHPlibrary](https://github.com/worldline/Sips-International-non-FR-PHPlibrary) since they no longer create new releases.
+
 ## Overview ##
 
 The library complies to the [PSR-0 standard](http://www.sitepoint.com/autoloading-and-the-psr-0-standard/),
