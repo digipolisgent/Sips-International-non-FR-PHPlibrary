@@ -132,7 +132,7 @@ class PaymentResponse
 
     public function isSuccessful()
     {
-        return in_array($this->getParam('RESPONSECODE'), array("00", "60"));
+        return in_array($this->getParam('RESPONSECODE'), array("00"));
     }
 
     public function toArray()
