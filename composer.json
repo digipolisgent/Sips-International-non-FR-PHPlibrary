@@ -1,5 +1,5 @@
 {
-    "name": "digipolisgent/sips-wordline",
+    "name": "digipolisgent/sips-worldline",
     "require-dev": {
         "phpunit/phpunit": "5.4.*"
     },
